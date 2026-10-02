@@ -1,0 +1,10 @@
+build/
+dist/
+.DS_Store
+sdk/
+*.zip
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
